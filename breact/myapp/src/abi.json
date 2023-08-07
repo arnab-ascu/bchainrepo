@@ -1,0 +1,15 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "item",
+				"type": "string"
+			}
+		],
+		"name": "getTodo",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
